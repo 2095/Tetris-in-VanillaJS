@@ -1,1 +1,1 @@
-# Tetris-on-VanillaJS
+# Tetris-in-VanillaJS
